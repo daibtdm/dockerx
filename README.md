@@ -1,6 +1,5 @@
 # Vless + Vmess + Trojan
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/wgp-2020/HX)
 
 - 地址：**应用名称.herokuapp.com**
 - 端口：**443**
